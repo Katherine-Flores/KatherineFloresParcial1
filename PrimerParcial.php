@@ -16,3 +16,7 @@
  echo "\nEl valor final de la variable a es: " . $a;
  echo "\nEl valor final de la variable b es: " . $b;
 
+ echo "\n";
+ for ($j=0; $j<=31; $j=$j+3){
+     echo $j . ", ";
+ }
